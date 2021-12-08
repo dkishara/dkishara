@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ishara Chaminda, I'll mostly document my work here for my own reference later, if it's helpful for you glad about that 
-- 👀 I’m interested in {Machine Learning, Genetic Algorithms, Automation, Robotics and many more areas}     
+- 👋 Hi, I’m Ishara Chaminda, I'll mostly document my work here for my own reference later, if it's helpful for you no worries
+- 👀 I’m interested in {Machine Learning, Genetic Algorithms, Automation, Robotics and many more things}     
 - 🌱 I’m currently learning {Genetic Algorithms and Swarm Intelligence}
 - 💞️ I’m looking to collaborate on {Genetic Algorithms and Swarm Intelligence related projects}
 - 📫 Can Reach me @ isa.chamin at gmail.com, https://www.linkedin.com/in/ishara-chamin
