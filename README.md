@@ -10,7 +10,7 @@
 -     IOT
 -   }     
 - 🌱 I’m currently learning {RL,Genetic Algorithms and Swarm Intelligence}
-- 💞️ I’m looking to collaborate to create real world applications of {Genetic Algorithms and Swarm Intelligence related projects}
+- 💞️ I’m looking to collaborate to create real world applications of {ML, RL, Genetic Algorithms and Swarm Intelligence related projects}
 - 📫 Can Reach me @ isa.chamin at gmail.com, https://www.linkedin.com/in/ishara-chamin
 
 <!---
